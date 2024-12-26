@@ -1,0 +1,42 @@
+[
+    {
+        "code": "schoolSupplies",
+        "name": "school supplies",
+        "translateVi": "Đồ dùng học tập",
+        "url": "",
+        "transcription": "",
+        "displayText": false
+    },
+    {
+        "code": "kitchenUtensils",
+        "name": "Kitchen Utensils",
+        "translateVi": "Đồ dùng nhà bếp",
+        "url": "",
+        "transcription": "",
+        "displayText": false
+    },
+    {
+        "code": "fruit",
+        "name": "Fruit",
+        "translateVi": "Trái cây",
+        "url": "",
+        "transcription": "",
+        "displayText": false
+    },
+    {
+        "code": "animals",
+        "name": "Animals",
+        "translateVi": "Động vật",
+        "url": "",
+        "transcription": "",
+        "displayText": false
+    },
+    {
+        "code": "seaAnimals",
+        "name": "Sea Animals",
+        "translateVi": "Động vật biển",
+        "url": "",
+        "transcription": "",
+        "displayText": false
+    }
+]
