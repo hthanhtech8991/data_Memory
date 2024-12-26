@@ -1,0 +1,44 @@
+[
+    {
+        "code": "apple",
+        "name": "Apple",
+        "url": "assets/images/memoryCard/fruits/apple.png",
+        "transcription": "/’æpl/",
+        "displayText": false
+    },
+    {
+        "code": "banana",
+        "name": "Banana",
+        "url": "assets/images/memoryCard/fruits/banana.png",
+        "transcription": "",
+        "displayText": false
+    },
+    {
+        "code": "cherry",
+        "name": "Cherry",
+        "url": "assets/images/memoryCard/fruits/cherry.png",
+        "transcription": "",
+        "displayText": false
+    },
+    {
+        "code": "coconut",
+        "name": "Coconut",
+        "url": "assets/images/memoryCard/fruits/coconut.png",
+        "transcription": "",
+        "displayText": false
+    },
+    {
+        "code": "grape",
+        "name": "Grape",
+        "url": "assets/images/memoryCard/fruits/grape.png",
+        "transcription": "/’æpl/",
+        "displayText": false
+    },
+    {
+        "code": "strawberry",
+        "name": "Strawberry",
+        "url": "assets/images/memoryCard/fruits/strawberry.png",
+        "transcription": "",
+        "displayText": false
+    }
+]
