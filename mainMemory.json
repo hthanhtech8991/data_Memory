@@ -3,7 +3,7 @@
         "code": "schoolSupplies",
         "name": "school supplies",
         "translateVi": "Đồ dùng học tập",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/logos/schoolSuplies.jpg",
         "transcription": "",
         "displayText": false
     },
@@ -11,7 +11,7 @@
         "code": "kitchenUtensils",
         "name": "Kitchen Utensils",
         "translateVi": "Đồ dùng nhà bếp",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/logos/kitchen.jpg",
         "transcription": "",
         "displayText": false
     },
@@ -19,7 +19,7 @@
         "code": "fruit",
         "name": "Fruit",
         "translateVi": "Trái cây",
-        "url": "",
+        "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/logos/fruits.jpg",
         "transcription": "",
         "displayText": false
     },
