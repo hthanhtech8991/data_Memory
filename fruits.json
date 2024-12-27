@@ -4,6 +4,7 @@
         "name": "Apple",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/apple.png",
         "transcription": "/’æpl/",
+        "translateVi": "Quả táo",
         "displayText": false
     },
     {
@@ -11,6 +12,7 @@
         "name": "Banana",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/banana.png",
         "transcription": "",
+        "translateVi": "Quả chuối",
         "displayText": false
     },
     {
@@ -18,6 +20,7 @@
         "name": "Cherry",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/cherry.png",
         "transcription": "",
+        "translateVi": "Quả cherry",
         "displayText": false
     },
     {
@@ -25,13 +28,15 @@
         "name": "Coconut",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/coconut.png",
         "transcription": "",
+        "translateVi": "Quả dừa",
         "displayText": false
     },
     {
         "code": "grape",
         "name": "Grape",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/grape.png",
-        "transcription": "/’æpl/",
+        "transcription": "",
+        "translateVi": "Quả nho",
         "displayText": false
     },
     {
@@ -39,6 +44,7 @@
         "name": "Strawberry",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/strawberry.png",
         "transcription": "",
+        "translateVi": "Quả dâu tây",
         "displayText": false
     },
     {
@@ -46,6 +52,7 @@
         "name": "Pear",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/pear.png",
         "transcription": "",
+        "translateVi": "Quả lê",
         "displayText": false
     },
     {
@@ -53,6 +60,7 @@
         "name": "Pineapple",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/pineapple.png",
         "transcription": "",
+        "translateVi": "Quả thơm",
         "displayText": false
     },
     {
@@ -60,6 +68,7 @@
         "name": "Orange",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/orange.png",
         "transcription": "",
+        "translateVi": "Quả cam",
         "displayText": false
     },
     {
@@ -67,6 +76,7 @@
         "name": "Lemon",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/lemon.png",
         "transcription": "",
+        "translateVi": "Quả chanh vàng",
         "displayText": false
     },
     {
@@ -74,6 +84,7 @@
         "name": "Watermelon",
         "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/memoryCard/fruits/watermelon.png",
         "transcription": "",
+        "translateVi": "Quả dưa hấu",
         "displayText": false
     }
 ]
