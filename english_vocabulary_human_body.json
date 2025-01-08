@@ -3,7 +3,7 @@
     "displayText": false,
     "code": "ankle",
     "name": "Ankle",
-    "translate_vi": "Mắt cá chân",
+    "translateVi": "Mắt cá chân",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/ankle.png"
   },
@@ -11,7 +11,7 @@
     "displayText": false,
     "code": "areola",
     "name": "Areola",
-    "translate_vi": "Bầu vú",
+    "translateVi": "Bầu vú",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/areola.png"
   },
@@ -19,7 +19,7 @@
     "displayText": false,
     "code": "armpit",
     "name": "Armpit",
-    "translate_vi": "Nách",
+    "translateVi": "Nách",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/armpit.png"
   },
@@ -27,7 +27,7 @@
     "displayText": false,
     "code": "blood",
     "name": "Blood",
-    "translate_vi": "Máu",
+    "translateVi": "Máu",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/blood.png"
   },
@@ -35,7 +35,7 @@
     "displayText": false,
     "code": "brain",
     "name": "Brain",
-    "translate_vi": "Não",
+    "translateVi": "Não",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/brain.png"
   },
@@ -43,7 +43,7 @@
     "displayText": false,
     "code": "buttock",
     "name": "Buttock",
-    "translate_vi": "Mông",
+    "translateVi": "Mông",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/buttock.png"
   },
@@ -51,7 +51,7 @@
     "displayText": false,
     "code": "chin",
     "name": "Chin",
-    "translate_vi": "Cằm",
+    "translateVi": "Cằm",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/chin.png"
   },
@@ -59,7 +59,7 @@
     "displayText": false,
     "code": "dimple",
     "name": "Dimple",
-    "translate_vi": "Lúm đồng tiền",
+    "translateVi": "Lúm đồng tiền",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/dimple.png"
   },
@@ -67,7 +67,7 @@
     "displayText": false,
     "code": "ear",
     "name": "Ear",
-    "translate_vi": "Tai",
+    "translateVi": "Tai",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/ear.png"
   },
@@ -75,7 +75,7 @@
     "displayText": false,
     "code": "elbow",
     "name": "Elbow",
-    "translate_vi": "Cùi trỏ",
+    "translateVi": "Cùi trỏ",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/elbow.png"
   },
@@ -83,7 +83,7 @@
     "displayText": false,
     "code": "eye",
     "name": "eye",
-    "translate_vi": "Con mắt",
+    "translateVi": "Con mắt",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/eye.png"
   },
@@ -91,7 +91,7 @@
     "displayText": false,
     "code": "face",
     "name": "Face",
-    "translate_vi": "Khuôn mặt",
+    "translateVi": "Khuôn mặt",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/face.png"
   },
@@ -99,7 +99,7 @@
     "displayText": false,
     "code": "finger",
     "name": "Finger",
-    "translate_vi": "Ngón tay",
+    "translateVi": "Ngón tay",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/finger.png"
   },
@@ -107,7 +107,7 @@
     "displayText": false,
     "code": "fist",
     "name": "Fist",
-    "translate_vi": "Nắm tay",
+    "translateVi": "Nắm tay",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/fist.png"
   },
@@ -115,7 +115,7 @@
     "displayText": false,
     "code": "foot_feet",
     "name": "Foot or feet",
-    "translate_vi": "Bàn chân",
+    "translateVi": "Bàn chân",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/foot_feet.png"
   },
@@ -123,7 +123,7 @@
     "displayText": false,
     "code": "hair",
     "name": "Hair",
-    "translate_vi": "Tóc",
+    "translateVi": "Tóc",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/hair.png"
   },
@@ -131,7 +131,7 @@
     "displayText": false,
     "code": "hand",
     "name": "Hand",
-    "translate_vi": "Bàn tay",
+    "translateVi": "Bàn tay",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/hand.png"
   },
@@ -139,7 +139,7 @@
     "displayText": false,
     "code": "hip",
     "name": "Hip",
-    "translate_vi": "Hông",
+    "translateVi": "Hông",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/hip.png"
   },
@@ -147,7 +147,7 @@
     "displayText": false,
     "code": "jaw",
     "name": "Jaw",
-    "translate_vi": "Quai hàm",
+    "translateVi": "Quai hàm",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/jaw.png"
   },
@@ -155,7 +155,7 @@
     "displayText": false,
     "code": "knee",
     "name": "Knee",
-    "translate_vi": "Đầu gối",
+    "translateVi": "Đầu gối",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/knee.png"
   },
@@ -163,7 +163,7 @@
     "displayText": false,
     "code": "lip",
     "name": "Lip",
-    "translate_vi": "Môi",
+    "translateVi": "Môi",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/lip.png"
   },
@@ -171,7 +171,7 @@
     "displayText": false,
     "code": "mouth",
     "name": "Mouth",
-    "translate_vi": "Cái Miệng",
+    "translateVi": "Cái Miệng",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/mouth.png"
   },
@@ -179,7 +179,7 @@
     "displayText": false,
     "code": "nose",
     "name": "Nose",
-    "translate_vi": "Cái mũi",
+    "translateVi": "Cái mũi",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/nose.png"
   },
@@ -187,7 +187,7 @@
     "displayText": false,
     "code": "nostril",
     "name": "Nostril",
-    "translate_vi": "Lỗ mũi",
+    "translateVi": "Lỗ mũi",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/nostril.png"
   },
@@ -195,7 +195,7 @@
     "displayText": false,
     "code": "stomach",
     "name": "Stomach",
-    "translate_vi": "Bao tử",
+    "translateVi": "Bao tử",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/stomach.png"
   },
@@ -203,7 +203,7 @@
     "displayText": false,
     "code": "thigh",
     "name": "Thigh",
-    "translate_vi": "Đùi",
+    "translateVi": "Đùi",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/thigh.png"
   },
@@ -211,7 +211,7 @@
     "displayText": false,
     "code": "tongue",
     "name": "Tongue",
-    "translate_vi": "Cái lưỡi",
+    "translateVi": "Cái lưỡi",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/tongue.png"
   },
@@ -219,7 +219,7 @@
     "displayText": false,
     "code": "tooth_teech",
     "name": "Tooth or teeth",
-    "translate_vi": "Răng",
+    "translateVi": "Răng",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/tooth_teeth.png"
   },
@@ -227,7 +227,7 @@
     "displayText": false,
     "code": "waist",
     "name": "Waist",
-    "translate_vi": "Eo",
+    "translateVi": "Eo",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/waist.png"
   }
