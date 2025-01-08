@@ -230,5 +230,182 @@
     "translateVi": "Eo",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/waist.png"
-  }
+  },
+  {
+    "displayText": false,
+    "code": "lung",
+    "name": "Lung",
+    "translateVi": "Phổi",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/lung.png"
+  },
+  {
+    "displayText": false,
+    "code": "heart",
+    "name": "Heart",
+    "translateVi": "Trái tim",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/heart.png"
+  },
+  {
+    "displayText": false,
+    "code": "shoulder",
+    "name": "Shoulder",
+    "translateVi": "Vai",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/shoulder.png"
+  },
+  {
+    "displayText": false,
+    "code": "thumb",
+    "name": "Thumb",
+    "translateVi": "Ngón tay cái",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/thumb.png"
+  },
+  {
+    "displayText": false,
+    "code": "hand_palm",
+    "name": "Hand Palm",
+    "translateVi": "Lòng bàn tay",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/hand_palm.png"
+  },
+  {
+    "displayText": false,
+    "code": "little_finger_pinkie",
+    "name": "Little finger or pinkie",
+    "translateVi": "Ngón tay út",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/little_finger_pinkie.png"
+  },
+  {
+    "displayText": false,
+    "code": "middle_finger",
+    "name": "Middle finger",
+    "translateVi": "Ngón tay giữa",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/middle_finger.png"
+  },
+  {
+    "displayText": false,
+    "code": "index_finger",
+    "name": "Index finger",
+    "translateVi": "Ngón tay trỏ",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/index_finger.png"
+  },
+  {
+    "displayText": false,
+    "code": "ring_finger",
+    "name": "Ring finger",
+    "translateVi": "Ngón đeo nhẫn",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/ring_finger.png"
+  },
+  {
+    "displayText": false,
+    "code": "heel",
+    "name": "Heel",
+    "translateVi": "Gót chân",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/heel.png"
+  },
+  {
+    "displayText": false,
+    "code": "arch",
+    "name": "Arch",
+    "translateVi": "Lòng bàn chân",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/foot_arch.png"
+  },
+  {
+    "displayText": false,
+    "code": "fingernail",
+    "name": "Fingernail",
+    "translateVi": "Móng tay",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/fingernail.png"
+  },
+  {
+    "displayText": false,
+    "code": "eyelid",
+    "name": "Eyelid",
+    "translateVi": "Mi Mắt",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/eyelid.png"
+  },
+  {
+    "displayText": false,
+    "code": "eyebrow",
+    "name": "Eyebrow",
+    "translateVi": "Lồng mày",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/eyebrow.png"
+  },
+  {
+    "displayText": false,
+    "code": "eyelash",
+    "name": "Eyelash",
+    "translateVi": "Lồng mi",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/eyelash.png"
+  },
+  {
+    "displayText": false,
+    "code": "eye_iris",
+    "name": "Eye iris",
+    "translateVi": "Móng mắt",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/eye_iris.png"
+  },
+  {
+    "displayText": false,
+    "code": "eye_pupil",
+    "name": "Eye pupil",
+    "translateVi": "Con ngươi",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/eye_pupil.png"
+  },
+  {
+    "displayText": false,
+    "code": "neck",
+    "name": "Neck",
+    "translateVi": "Cổ",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/neck.png"
+  },
+  {
+    "displayText": false,
+    "code": "earlobe",
+    "name": "Earlobe",
+    "translateVi": "Thùy tai",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/earlobe.png"
+  },
+  {
+    "displayText": false,
+    "code": "throat",
+    "name": "Throat",
+    "translateVi": "Cổ họng",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/throat.png"
+  },
+  {
+    "displayText": false,
+    "code": "forehead",
+    "name": "Forehead",
+    "translateVi": "Trán",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/forehead.png"
+  },
+  {
+    "displayText": false,
+    "code": "calf",
+    "name": "Calf",
+    "translateVi": "Bắp chân",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/calf.png"
+  },
+  {}
 ]
