@@ -406,5 +406,206 @@
     "translateVi": "Bắp chân",
     "transcription": "",
     "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/calf.png"
-  }
+  },
+  {
+    "displayText": false,
+    "code": "back",
+    "name": "Back",
+    "translateVi": "Lưng",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/back.png"
+  },
+  {
+    "displayText": false,
+    "code": "vein",
+    "name": "Vein",
+    "translateVi": "Tĩnh mạch",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/vein.png"
+  },
+  {
+    "displayText": false,
+    "code": "artery",
+    "name": "Artery",
+    "translateVi": "Động mạch",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/artery.png"
+  },
+  {
+    "displayText": false,
+    "code": "tears",
+    "name": "Tears",
+    "translateVi": "Nước mắt",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/tears.png"
+  },
+  {
+    "displayText": false,
+    "code": "saliva",
+    "name": "Saliva",
+    "translateVi": "Nước bọt",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/saliva.png"
+  },
+  {
+    "displayText": false,
+    "code": "mucus",
+    "name": "Mucus",
+    "translateVi": "Nước mũi",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/mucus.png"
+  },
+  {
+    "displayText": false,
+    "code": "semen",
+    "name": "Semen",
+    "translateVi": "Tinh dịch",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/semen.png"
+  },
+  {
+    "displayText": false,
+    "code": "urine",
+    "name": "Urine",
+    "translateVi": "Nước tiểu",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/urine.png"
+  },
+  {
+    "displayText": false,
+    "code": "vomit",
+    "name": "Vomit",
+    "translateVi": "Nôn mửa",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/vomit.png"
+  },
+  {
+    "displayText": false,
+    "code": "phlegm",
+    "name": "Phlegm",
+    "translateVi": "Đờm",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/phlegm.png"
+  },
+  {
+    "displayText": false,
+    "code": "skin",
+    "name": "Skin",
+    "translateVi": "Da",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/skin.png"
+  },
+  {
+    "displayText": false,
+    "code": "joint",
+    "name": "Joint",
+    "translateVi": "Xương khớp",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/joint.png"
+  },
+  {
+    "displayText": false,
+    "code": "to_yawn",
+    "name": "To yawn",
+    "translateVi": "Ngáp",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/to_yawn.png"
+  },
+  {
+    "displayText": false,
+    "code": "liver",
+    "name": "Liver",
+    "translateVi": "Gan",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/liver.png"
+  },
+  {
+    "displayText": false,
+    "code": "to_sneeze",
+    "name": "To sneeze",
+    "translateVi": "Hắt xì",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/to_sneeze.png"
+  },
+  {
+    "displayText": false,
+    "code": "to_sweat",
+    "name": "To sweat",
+    "translateVi": "Toát mồ hôi",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/to_sweat.png"
+  },
+  {
+    "displayText": false,
+    "code": "cross_your_arms",
+    "name": "Cross your arms",
+    "translateVi": "Khoanh tay",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/cross_your_arms.png"
+  },
+  {
+    "displayText": false,
+    "code": "blink_your_eyes",
+    "name": "Blink your eyes",
+    "translateVi": "Nháy mắt",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/blink_your_eyes.png"
+  },
+  {
+    "displayText": false,
+    "code": "shrug_your_shoulders",
+    "name": "Shrug your shoulders",
+    "translateVi": "Nhướn vai",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/shrug_your_shoulders.png"
+  },
+  {
+    "displayText": false,
+    "code": "raise_an_eyebrow",
+    "name": "Raise an eyebrow",
+    "translateVi": "Nhướn mày",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/raise_an_eyebrow.png"
+  },
+  {
+    "displayText": false,
+    "code": "shake_your_head",
+    "name": "Shake your head",
+    "translateVi": "Lắc đầu",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/shake_your_head.png"
+  },
+  {
+    "displayText": false,
+    "code": "nod_your_head",
+    "name": "Nod your head",
+    "translateVi": "Gật đầu",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/nod_your_head.png"
+  },
+  {
+    "displayText": false,
+    "code": "roll_your_eyes",
+    "name": "Roll your eyes",
+    "translateVi": "Đảo mắt",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/roll_your_eyes.png"
+  },
+  {
+    "displayText": false,
+    "code": "cross_your_legs",
+    "name": "Cross your legs",
+    "translateVi": "Khoanh chân",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/cross_your_legs.png"
+  },
+  {
+    "displayText": false,
+    "code": "stick_out_your_tongue",
+    "name": "Stick out your tongue",
+    "translateVi": "Lè lưỡi",
+    "transcription": "",
+    "url": "https://raw.githubusercontent.com/hthanhtech8991/data_Memory/refs/heads/main/assets/images/human_body/stick_out_your_tongue.png"
+  },
+  {}
 ]
